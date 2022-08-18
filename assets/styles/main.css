@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "YekanBakh";
+  src: url("../fonts/YekanBakh-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+}
+@font-face {
+  font-family: "YekanBakh";
+  src: url("../fonts/YekanBakh-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: auto;
+}
+
+:root {
+  --color-primary: #0ea960;
+  --text-primary: #2a2a2a;
+  --text-secondary: #8a8a8a;
+  --border-color: #e5e7f0;
+  --bg-color-primary: #fff;
+  font-family: YekanBakh;
+  direction: rtl;
+  font-size: 62.5%;
+  line-height: 1.5;
+}
+* {
+  box-sizing: border-box;
+}
