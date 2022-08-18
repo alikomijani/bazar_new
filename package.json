@@ -1,0 +1,24 @@
+{
+  "name": "bazar",
+  "version": "1.0.0",
+  "description": "this an example for daneshkar bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikomijani/bazar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alikomijani/bazar/issues"
+  },
+  "homepage": "https://github.com/alikomijani/bazar#readme",
+  "author": "Ali komijani",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
